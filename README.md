@@ -18,6 +18,6 @@ RumorEval2019-S test dataset in this paper contains 397 conversation threads, cl
 ### Labal Folder
 Contains Claim label and post stance label files.
 ### Tweets Folder
-Each file is named with claim id, that contains Claim id, claim texts, and corresponding reply id, reply text.
+The file is named with claim id, and each file contains claim id, claim texts, and corresponding reply id, reply text.
 
 As for another test dataset SemEval8, you can get it directly through: https://alt.qcri.org/semeval2017/task8/index.php?id=data-and-tools
