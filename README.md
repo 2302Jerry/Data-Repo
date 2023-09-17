@@ -16,7 +16,6 @@ Rumor and stance label test data repository for the SIGIR 2022 paper: A weakly s
 RumorEval2019-S test dataset in this paper contains 397 conversation threads, claim label comes from one of [True Rumor, False Rumor, Non Rumor, Unverified Rumor], post label comes from one of [Support, Deny, Question, Comment]. 
 
 ### Labal Folder: contains Claim label and post stance label files.
-###Tweets Folder: each file is named with claim id, that contains Claim id, claim texts, and corresponding reply id, reply text.
+### Tweets Folder: each file is named with claim id, that contains Claim id, claim texts, and corresponding reply id, reply text.
 
-### As for another test dataset SemEval8, you can get it directly through: 
-
+As for another test dataset SemEval8, you can get it directly through: https://alt.qcri.org/semeval2017/task8/index.php?id=data-and-tools
